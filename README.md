@@ -8,5 +8,4 @@ Repo will contain practice codes
 -----------------------------------------
 
 1.Kashyap Rishi BT21CSE116
-
-
+2.Samyak Rote BT22CSE160
